@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/testHomeBuddy/static/css/main.e7b2f74b.css",
+    "main.js": "/testHomeBuddy/static/js/main.5f623d98.js",
+    "static/media/banner-big2x.jpg": "/testHomeBuddy/static/media/banner-big2x.b406d99f2e79de5620ab.jpg",
+    "static/media/banner2x.jpg": "/testHomeBuddy/static/media/banner2x.9895dcab3832b4ab9a0c.jpg",
+    "static/media/banner-big.jpg": "/testHomeBuddy/static/media/banner-big.e08001c0691087c83010.jpg",
+    "static/media/bgr-form.svg": "/testHomeBuddy/static/media/bgr-form.724af0e28f4f4e8d4ebe.svg",
+    "static/media/banner.jpg": "/testHomeBuddy/static/media/banner.ac9fab24e4d8069bb9f3.jpg",
+    "static/media/guarantee.svg": "/testHomeBuddy/static/media/guarantee.8b16a168328540356c8aeb0ba8693753.svg",
+    "static/media/savings.svg": "/testHomeBuddy/static/media/savings.4dcb8ee5d8ae87e18636c19644dbf939.svg",
+    "static/media/modern-house.svg": "/testHomeBuddy/static/media/modern-house.d140d450cb9278616b86ffe8c56447c9.svg",
+    "static/media/rating.svg": "/testHomeBuddy/static/media/rating.25aedd6cc554e71273ec632fa4ba85db.svg",
+    "static/media/star2.svg": "/testHomeBuddy/static/media/star2.937dfd5c4824709c15fffb2a35e1dfed.svg",
+    "static/media/lock.svg": "/testHomeBuddy/static/media/lock.fc90b2a66e966ac019293e04c42368cd.svg",
+    "static/media/savings_small.svg": "/testHomeBuddy/static/media/savings_small.461037e6082ce7b10cfaab94c598f2ed.svg",
+    "index.html": "/testHomeBuddy/index.html",
+    "static/media/close.svg": "/testHomeBuddy/static/media/close.f2b29a50f9f7a9a16c50.svg",
+    "static/media/no.svg": "/testHomeBuddy/static/media/no.c1c6cfffa51146c3fcf3a41dd1e5dc0a.svg",
+    "static/media/yes.svg": "/testHomeBuddy/static/media/yes.dfd6354b3397700d0b7b9ad90cef46b0.svg",
+    "main.e7b2f74b.css.map": "/testHomeBuddy/static/css/main.e7b2f74b.css.map",
+    "main.5f623d98.js.map": "/testHomeBuddy/static/js/main.5f623d98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b2f74b.css",
+    "static/js/main.5f623d98.js"
+  ]
+}
